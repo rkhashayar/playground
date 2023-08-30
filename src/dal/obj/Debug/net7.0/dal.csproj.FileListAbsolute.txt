@@ -1,0 +1,12 @@
+C:\projects\playgrounds\MinimalApi\src\dal\bin\Debug\net7.0\dal.deps.json
+C:\projects\playgrounds\MinimalApi\src\dal\bin\Debug\net7.0\dal.dll
+C:\projects\playgrounds\MinimalApi\src\dal\bin\Debug\net7.0\dal.pdb
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\dal.AssemblyInfo.cs
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\dal.dll
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\refint\dal.dll
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\dal.pdb
+C:\projects\playgrounds\MinimalApi\src\dal\obj\Debug\net7.0\ref\dal.dll
