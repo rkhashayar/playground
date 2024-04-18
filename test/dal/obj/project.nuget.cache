@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ybBqtp2YVC5rCNeqvs6IUh0P8l6q1LmSsbm0W6rSWQ2t+xf2WcqL37D2yjAFDDQz36z8sJD3Rz6L6g6G0odIQ==",
+  "dgSpecHash": "EfZdGxlnR33ZmX/6gfl4DqpVzyRAaPT9/7mvZ39iH9ZQT3NTM3JS6q6dXKJuRJ7rQoTcd73ScjLkDxKGswjlBg==",
   "success": true,
-  "projectFilePath": "C:\\projects\\playgrounds\\MinimalApi\\test\\dal\\DalTests.csproj",
+  "projectFilePath": "c:\\projects\\playgrounds\\MinimalApi\\test\\dal\\DalTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kash\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\kash\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",

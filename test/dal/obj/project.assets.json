@@ -6275,11 +6275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\playgrounds\\MinimalApi\\test\\dal\\DalTests.csproj",
+      "projectUniqueName": "c:\\projects\\playgrounds\\MinimalApi\\test\\dal\\DalTests.csproj",
       "projectName": "DalTests",
-      "projectPath": "C:\\projects\\playgrounds\\MinimalApi\\test\\dal\\DalTests.csproj",
+      "projectPath": "c:\\projects\\playgrounds\\MinimalApi\\test\\dal\\DalTests.csproj",
       "packagesPath": "C:\\Users\\kash\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\playgrounds\\MinimalApi\\test\\dal\\obj\\",
+      "outputPath": "c:\\projects\\playgrounds\\MinimalApi\\test\\dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6297,8 +6297,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\projects\\playgrounds\\MinimalApi\\src\\dal\\dal.csproj": {
-              "projectPath": "C:\\projects\\playgrounds\\MinimalApi\\src\\dal\\dal.csproj"
+            "c:\\projects\\playgrounds\\MinimalApi\\src\\dal\\dal.csproj": {
+              "projectPath": "c:\\projects\\playgrounds\\MinimalApi\\src\\dal\\dal.csproj"
             }
           }
         }
@@ -6354,7 +6354,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

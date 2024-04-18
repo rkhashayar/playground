@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KmuWMdtuZD9nzrD0ouRlEC9RZOrON3vdGIAf+TXRpLTGcOYMsst4YBDGTrfhvNIyvuLM6kultSZ8mwYlRk65pw==",
+  "dgSpecHash": "iRI1XcfB7o7R2THSd2yO/Oma0Z6P2mD5YbE7N9/SwKvWM146k8As7viR/SBdp02NvgXomcVDv5fFCC9XUemWUA==",
   "success": true,
-  "projectFilePath": "C:\\projects\\playgrounds\\MinimalApi\\src\\todos\\todos.csproj",
+  "projectFilePath": "c:\\projects\\playgrounds\\MinimalApi\\src\\todos\\todos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kash\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\kash\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

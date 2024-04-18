@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\playgrounds\\MinimalApi\\src\\dal\\dal.csproj",
+      "projectUniqueName": "c:\\projects\\playgrounds\\MinimalApi\\src\\dal\\dal.csproj",
       "projectName": "dal",
-      "projectPath": "C:\\projects\\playgrounds\\MinimalApi\\src\\dal\\dal.csproj",
+      "projectPath": "c:\\projects\\playgrounds\\MinimalApi\\src\\dal\\dal.csproj",
       "packagesPath": "C:\\Users\\kash\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\playgrounds\\MinimalApi\\src\\dal\\obj\\",
+      "outputPath": "c:\\projects\\playgrounds\\MinimalApi\\src\\dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
